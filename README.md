@@ -161,6 +161,11 @@ california-housing-price-prediction/
 
 Install the required libraries:
 
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+Install the required libraries:
+
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 Then run:

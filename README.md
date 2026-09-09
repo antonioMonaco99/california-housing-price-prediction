@@ -155,25 +155,17 @@ california-housing-price-prediction/
 ├── housing_clean.csv
 └── README.md
 
-
-
 # How to Run
 
 Install the required libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
-Install the required libraries:
-
-pip install pandas numpy matplotlib seaborn scikit-learn
-
 Then run:
-
 python3 analisi.py
-
 The script performs the complete analysis, cleaning process, model training and evaluation.
 Conclusions
 The analysis shows that non-linear ensemble models significantly outperform the Linear Regression baseline on this dataset.
 Among the tested models, Random Forest achieved the best performance, with an R² of approximately 0.81.
 The project demonstrates a complete introductory Machine Learning pipeline, from raw data exploration and cleaning to model comparison and interpretation.
+

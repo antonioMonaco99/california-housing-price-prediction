@@ -76,7 +76,7 @@ Geographic variables also showed meaningful relationships with house values, and
 
 ### Geographic distribution
 
-![Distribuzione geografica del valore delle abitazioni](images/04_distribuzione_geografica.png)
+![Distribuzione geografica del valore delle abitazioni](04_distribuzione_geografica.png)
 
 Plotting price by coordinates traces out the shape of California itself, with the highest-value districts (yellow) clustered tightly around the San Francisco Bay Area and the Los Angeles/coastal Southern California corridor — a strong visual confirmation that location drives price independently of income.
 
